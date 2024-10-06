@@ -13,6 +13,7 @@ Implemented a multi-label classification approach using KNeighborsClassifier and
 Built a simple, interactive web application using Streamlit, allowing users to upload a resume (in PDF or text format) and receive real-time predictions about the suitable job category.
 
 
+
 ### Tools & Technologies:
 
 Python for development
@@ -26,6 +27,7 @@ TF-IDF for feature extraction
 Streamlit for building the web application
 
 Pickle for model serialization and deployment
+
 
 
 ### Key Features:
