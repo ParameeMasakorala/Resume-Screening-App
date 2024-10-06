@@ -12,6 +12,7 @@ Implemented a multi-label classification approach using KNeighborsClassifier and
 #### Web App:
 Built a simple, interactive web application using Streamlit, allowing users to upload a resume (in PDF or text format) and receive real-time predictions about the suitable job category.
 
+
 ### Tools & Technologies:
 
 Python for development
@@ -26,6 +27,7 @@ Streamlit for building the web application
 
 Pickle for model serialization and deployment
 
+
 ### Key Features:
 
 User Interaction: Users can upload resumes directly via the web app.
@@ -33,5 +35,9 @@ User Interaction: Users can upload resumes directly via the web app.
 Real-time Prediction: The app provides a predicted job category, making it easier for employers to assess potential roles for candidates.
 
 Clean and Interactive Interface: Streamlit was used to create a clean, minimal interface with drag-and-drop functionality for ease of use.
+
+<img width="1403" alt="Screenshot 2024-10-06 at 19 42 19" src="https://github.com/user-attachments/assets/31f076cf-5c6e-4a63-a7ed-03da1c56851d">
+
+<img width="1403" alt="Screenshot 2024-10-06 at 23 49 46" src="https://github.com/user-attachments/assets/40e38a3a-8d28-41aa-b728-6ee360566318">
 
 
